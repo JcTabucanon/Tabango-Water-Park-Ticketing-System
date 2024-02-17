@@ -1,0 +1,73 @@
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\App.exe
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\App.pdb
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\App.xml
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.Resources.resources
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.vbproj.GenerateResource.Cache
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.exe
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.xml
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.pdb
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.Login.resources
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.Manage.resources
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.priceUpdate.resources
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.vbprojAssemblyReference.cache
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.vbproj.CoreCompileInputs.cache
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\Guna.UI2.dll
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.vbproj.CopyComplete
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\MySql.Data.dll
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\MySql.Data.xml
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.sellerMode.resources
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.Monthly.resources
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.dll
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.pdb
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.xml
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\App.exe
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\App.pdb
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\App.xml
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\Guna.UI2.dll
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.dll
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\MySql.Data.dll
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.pdb
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.xml
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\MySql.Data.xml
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.vbprojAssemblyReference.cache
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.Login.resources
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.Manage.resources
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.Monthly.resources
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.Resources.resources
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.sellerMode.resources
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.priceUpdate.resources
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.vbproj.GenerateResource.cache
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.vbproj.CoreCompileInputs.cache
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.vbproj.CopyComplete
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.exe
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.xml
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.pdb
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.Export.resources
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.Annual.resources
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\App.exe.manifest
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\bin\Debug\App.application
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.exe.manifest
+C:\Users\Jessie\Desktop\Capstone\App - Copy (2)\App\obj\x86\Debug\App.application
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\App.exe.manifest
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\App.application
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.Annual.resources
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.Export.resources
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.exe.manifest
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.application
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\itextsharp.dll
+C:\Users\Jessie\Desktop\Capstone\App\App\bin\Debug\itextsharp.xml
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.vbproj.ResolveComReference.cache
+C:\Users\Jessie\Desktop\Capstone\App\App\obj\x86\Debug\App.Form1.resources
